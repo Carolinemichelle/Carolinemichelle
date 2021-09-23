@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Carolinemichelle
+- 👀 I’m interested in design and coding.
+- 🌱 I’m currently learning Html, Css and Javascript.
+- 📫 How to reach me ="Caroline.kodehode@gmail.com"
